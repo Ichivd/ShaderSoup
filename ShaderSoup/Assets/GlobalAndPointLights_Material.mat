@@ -42,15 +42,15 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Light1_Intensity: 1
-    - _Light2_Intensity: 1
+    - _Light1_Intensity: 10
+    - _Light2_Intensity: 10
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
     - _Light1_Color: {r: 1, g: 0.8431373, b: 0, a: 1}
-    - _Light1_Pos: {r: 2, g: 2, b: 0, a: 0}
-    - _Light2_Color: {r: 0.627451, g: 0.1254902, b: 0.9411765, a: 1}
-    - _Light2_Pos: {r: 0, g: 0, b: 0, a: 0}
+    - _Light1_Pos: {r: 10, g: 2, b: 0, a: 0}
+    - _Light2_Color: {r: 1, g: 0, b: 1, a: 1}
+    - _Light2_Pos: {r: 1, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &3238731306648644739
