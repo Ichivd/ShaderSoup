@@ -174,7 +174,7 @@ PrefabInstance:
     - target: {fileID: 1902508082895227026, guid: aaa8017105371724c93f36a70b1a68ba, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 0ee0ffe0e9438e845bdd8cef540803d4, type: 2}
+      objectReference: {fileID: 2100000, guid: 7ff6184221472ad4c9e7002d0abe3683, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -280,7 +280,7 @@ PrefabInstance:
     - target: {fileID: 7512881731923645421, guid: 151eecbed00a6ad48b73ef06cce951a6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 0ee0ffe0e9438e845bdd8cef540803d4, type: 2}
+      objectReference: {fileID: 2100000, guid: 7ff6184221472ad4c9e7002d0abe3683, type: 2}
     - target: {fileID: 8934681921710084477, guid: 151eecbed00a6ad48b73ef06cce951a6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.40166628
@@ -926,7 +926,7 @@ PrefabInstance:
     - target: {fileID: 2076396583469099463, guid: 3620c48edc0de674582c883112425cc6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 0ee0ffe0e9438e845bdd8cef540803d4, type: 2}
+      objectReference: {fileID: 2100000, guid: 7ff6184221472ad4c9e7002d0abe3683, type: 2}
     - target: {fileID: 5893578693024487884, guid: 3620c48edc0de674582c883112425cc6, type: 3}
       propertyPath: m_Name
       value: Crystal_4 (2)
@@ -1265,7 +1265,7 @@ PrefabInstance:
     - target: {fileID: 9034984583050064927, guid: 724d237596c0e5f4e96db63a4516d303, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 0ee0ffe0e9438e845bdd8cef540803d4, type: 2}
+      objectReference: {fileID: 2100000, guid: 7ff6184221472ad4c9e7002d0abe3683, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
